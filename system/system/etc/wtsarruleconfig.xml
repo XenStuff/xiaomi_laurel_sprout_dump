@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><SarRuleConfig>
+<restore>
+<sar_cell_restore value="0"/>
+<sar_wifi_restore value="0"/>
+<sar_wifi_24Ghz_restore value="0"/>
+<sar_wifi_5Ghz_restore value="0"/>
+</restore>
+<DsiValue>
+<dsi_value value="-1"/>
+</DsiValue>
+<configs is_use_precondition="0">
+
+
+
+<config>
+<is_voice value="-1"/>
+<is_wifi_ap_opened value="-1"/>
+<is_data_connected value="-1"/>
+<is_wifi_connected value="-1"/>
+<is_near_light value="-1"/>
+<is_headset_insert value="-1"/>
+<is_speaker_phoneon value="0"/>
+<is_sarsensor_top value="-1"/>
+<is_sarsensor_bottom value="1"/>
+<g_sensor x1="-999" x2="-999" y1="-999" y2="-999" z1="-999" z2="-999"/>
+<is_sim_mcc value="-1"/>
+<is_sar_cell_reduce value="3"/>
+<is_sar_wifi_reduce value="-1"/>
+<is_sar_wifi_24Ghz_reduce value="-1"/>
+<is_sar_wifi_5Ghz_reduce value="-1"/>
+<name value="recoff_botsaron_0mm_dsi3"/>
+<is_sarsensor_bottom_distance value="6"/>
+</config>
+<config>
+<is_voice value="-1"/>
+<is_wifi_ap_opened value="-1"/>
+<is_data_connected value="-1"/>
+<is_wifi_connected value="-1"/>
+<is_near_light value="-1"/>
+<is_headset_insert value="-1"/>
+<is_speaker_phoneon value="0"/>
+<is_sarsensor_top value="-1"/>
+<is_sarsensor_bottom value="1"/>
+<g_sensor x1="-999" x2="-999" y1="-999" y2="-999" z1="-999" z2="-999"/>
+<is_sim_mcc value="-1"/>
+<is_sar_cell_reduce value="2"/>
+<is_sar_wifi_reduce value="-1"/>
+<is_sar_wifi_24Ghz_reduce value="-1"/>
+<is_sar_wifi_5Ghz_reduce value="-1"/>
+<name value="recoff_botsaron_5mm_dsi2"/>
+<is_sarsensor_bottom_distance value="2"/>
+</config>
+<config>
+<is_voice value="-1"/>
+<is_wifi_ap_opened value="-1"/>
+<is_data_connected value="-1"/>
+<is_wifi_connected value="-1"/>
+<is_near_light value="-1"/>
+<is_headset_insert value="-1"/>
+<is_speaker_phoneon value="0"/>
+<is_sarsensor_top value="-1"/>
+<is_sarsensor_bottom value="0"/>
+<g_sensor x1="-999" x2="-999" y1="-999" y2="-999" z1="-999" z2="-999"/>
+<is_sim_mcc value="-1"/>
+<is_sar_cell_reduce value="7"/>
+<is_sar_wifi_reduce value="-1"/>
+<is_sar_wifi_24Ghz_reduce value="-1"/>
+<is_sar_wifi_5Ghz_reduce value="-1"/>
+<name value="recoff_botsaron_15mm_dsi7"/>
+<is_sarsensor_bottom_distance value="0"/>
+</config>
+<config>
+<is_voice value="-1"/>
+<is_wifi_ap_opened value="-1"/>
+<is_data_connected value="-1"/>
+<is_wifi_connected value="-1"/>
+<is_near_light value="-1"/>
+<is_headset_insert value="-1"/>
+<is_speaker_phoneon value="1"/>
+<is_sarsensor_top value="-1"/>
+<is_sarsensor_bottom value="1"/>
+<g_sensor x1="-999" x2="-999" y1="-999" y2="-999" z1="-999" z2="-999"/>
+<is_sim_mcc value="-1"/>
+<is_sar_cell_reduce value="7"/>
+<is_sar_wifi_reduce value="-1"/>
+<is_sar_wifi_24Ghz_reduce value="-1"/>
+<is_sar_wifi_5Ghz_reduce value="-1"/>
+<name value="recon_botsaron_0mm_dsi7"/>
+<is_sarsensor_bottom_distance value="6"/>
+</config>
+<config>
+<is_voice value="-1"/>
+<is_wifi_ap_opened value="-1"/>
+<is_data_connected value="-1"/>
+<is_wifi_connected value="-1"/>
+<is_near_light value="-1"/>
+<is_headset_insert value="-1"/>
+<is_speaker_phoneon value="1"/>
+<is_sarsensor_top value="-1"/>
+<is_sarsensor_bottom value="1"/>
+<g_sensor x1="-999" x2="-999" y1="-999" y2="-999" z1="-999" z2="-999"/>
+<is_sim_mcc value="-1"/>
+<is_sar_cell_reduce value="7"/>
+<is_sar_wifi_reduce value="-1"/>
+<is_sar_wifi_24Ghz_reduce value="-1"/>
+<is_sar_wifi_5Ghz_reduce value="-1"/>
+<name value="recon_botsaron_5mm_dsi7"/>
+<is_sarsensor_bottom_distance value="2"/>
+</config>
+<config>
+<is_voice value="-1"/>
+<is_wifi_ap_opened value="-1"/>
+<is_data_connected value="-1"/>
+<is_wifi_connected value="-1"/>
+<is_near_light value="-1"/>
+<is_headset_insert value="-1"/>
+<is_speaker_phoneon value="1"/>
+<is_sarsensor_top value="-1"/>
+<is_sarsensor_bottom value="0"/>
+<g_sensor x1="-999" x2="-999" y1="-999" y2="-999" z1="-999" z2="-999"/>
+<is_sim_mcc value="-1"/>
+<is_sar_cell_reduce value="7"/>
+<is_sar_wifi_reduce value="-1"/>
+<is_sar_wifi_24Ghz_reduce value="-1"/>
+<is_sar_wifi_5Ghz_reduce value="-1"/>
+<name value="recon_botsaron_15mm_dsi7"/>
+<is_sarsensor_bottom_distance value="0"/>
+</config>
+</configs>
+</SarRuleConfig>
